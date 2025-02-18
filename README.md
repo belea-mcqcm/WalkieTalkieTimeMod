@@ -8,6 +8,8 @@ A mod for Lethal Company that displays the time when holding an on walkie-talkie
 
 Setting `ShowTimeOnlyWithWalkieTalkie = false` (default) will show the clock normally outside and with an on walkie-talkie elsewhere. Setting it to `true` shows the clock _only_ when holding an on walkie-talkie, even outside.
 
+Clients' config files _should_ sync with the host's, giving everyone the same settings. Settings revert after leaving host's server.
+
 ## Installation
 
 ### Thunderstore
